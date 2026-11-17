@@ -1,4 +1,4 @@
-# Loss-Induced Magnetism in the Fermi--Hubbard Model
+# Loss-induced magnetism with Lindblad dynamics and MPS
 
 Numerical study of how on-site particle loss changes magnetic
 correlations in an interacting fermionic chain, using Lindblad dynamics,
